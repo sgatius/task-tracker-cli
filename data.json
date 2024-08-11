@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "description": "Task 1",
+    "status": "in-progress",
+    "createdAt": "2024-08-11T11:52:27.747Z",
+    "updatedAt": "2024-08-11T11:53:54.755Z"
+  },
+  {
+    "id": 2,
+    "description": "Task 2",
+    "status": "done",
+    "createdAt": "2024-08-11T11:52:33.087Z",
+    "updatedAt": "2024-08-11T11:54:06.922Z"
+  },
+  {
+    "id": 3,
+    "description": "Task 3",
+    "status": "todo",
+    "createdAt": "2024-08-11T11:52:37.644Z",
+    "updatedAt": "2024-08-11T11:52:37.644Z"
+  },
+  {
+    "id": 4,
+    "description": "Task 4",
+    "status": "todo",
+    "createdAt": "2024-08-11T11:52:40.022Z",
+    "updatedAt": "2024-08-11T11:53:03.346Z"
+  }
+]

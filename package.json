@@ -1,0 +1,13 @@
+{
+  "name": "task-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "bin": {
+    "task-cli": "./index.js"
+  },
+  "keywords": [],
+  "author": "Santiago Gatius Villodres",
+  "license": "ISC",
+  "description": ""
+}
